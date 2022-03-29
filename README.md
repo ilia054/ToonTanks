@@ -5,9 +5,10 @@ You play as a Tank in an arena filled with Turrets that shoot a projectile towar
 The Tank can drive forwards,backwards and sideways, Shoot projectiles at enemies, and also rotate his "Tower" which is the area where the  Projectile 
 are Shot from.
 
-To play the game 
-1.Download https://drive.google.com/file/d/1QKmvD8JlqXUwDEUwG7-rZYPXZsnu6Roz/view
-2.If you dont have Unreal Engine 4.27+ Use hits guide to install :
+**How to play the game **
+**1.Download the game** https://drive.google.com/file/d/1QKmvD8JlqXUwDEUwG7-rZYPXZsnu6Roz/view
+
+**2.If you dont have Unreal Engine 4.27+ Use hits guide to install :**
 https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/
 
 
