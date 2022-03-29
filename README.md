@@ -5,6 +5,14 @@ You play as a Tank in an arena filled with Turrets that shoot a projectile towar
 The Tank can drive forwards,backwards and sideways, Shoot projectiles at enemies, and also rotate his "Tower" which is the area where the  Projectile 
 are Shot from.
 
+**Setup Instruction's are at the bottom of the page**
+
+![MainMenu](https://user-images.githubusercontent.com/88554020/160614352-6195ccb2-6b16-4a39-837d-f79a3c0c230f.jpg)
+![Settings](https://user-images.githubusercontent.com/88554020/160635905-66545e0a-e016-4cef-b16c-5e6508ca8bd6.jpg)
+![HpAboveHead](https://user-images.githubusercontent.com/88554020/160615060-9880269a-c2ea-4f5d-8f22-ade2ca53a973.png)
+https://user-images.githubusercontent.com/88554020/160613482-d3052a70-9c87-4b8c-b47a-214603b8b809.mp4
+https://user-images.githubusercontent.com/88554020/160614090-5bf5151e-8d3b-4b0a-bc11-75dac4b6d45f.mp4
+
 **How to play the game**
 
 **1.Download And install Unreal Engine Version 4.27 And upwards**:
@@ -19,16 +27,6 @@ https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/
 
 https://user-images.githubusercontent.com/88554020/160653421-898b1f4e-ffe8-45f3-b833-69aed5959e87.mp4
 
-
-
-![MainMenu](https://user-images.githubusercontent.com/88554020/160614352-6195ccb2-6b16-4a39-837d-f79a3c0c230f.jpg)
-![Settings](https://user-images.githubusercontent.com/88554020/160635905-66545e0a-e016-4cef-b16c-5e6508ca8bd6.jpg)
-![HpAboveHead](https://user-images.githubusercontent.com/88554020/160615060-9880269a-c2ea-4f5d-8f22-ade2ca53a973.png)
-
-https://user-images.githubusercontent.com/88554020/160613482-d3052a70-9c87-4b8c-b47a-214603b8b809.mp4
-
-
-https://user-images.githubusercontent.com/88554020/160614090-5bf5151e-8d3b-4b0a-bc11-75dac4b6d45f.mp4
 
 
 
