@@ -7,11 +7,18 @@ are Shot from.
 
 **How to play the game**
 
-**1.Download the game** https://drive.google.com/file/d/1QKmvD8JlqXUwDEUwG7-rZYPXZsnu6Roz/view
+**1.Download And install Unreal Engine Version 4.27 And upwards**:
 
+https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/
 
 **2.If you dont have Unreal Engine 4.27+ Use hits guide to install :**
+
 https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/
+
+**3.Follow the video:
+
+https://user-images.githubusercontent.com/88554020/160653421-898b1f4e-ffe8-45f3-b833-69aed5959e87.mp4
+
 
 
 ![MainMenu](https://user-images.githubusercontent.com/88554020/160614352-6195ccb2-6b16-4a39-837d-f79a3c0c230f.jpg)
